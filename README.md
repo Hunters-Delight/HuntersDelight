@@ -18,4 +18,5 @@ Solutions
 - Calandar for when to put in that you can link to your google calandar
 - Calandar for the hunts that get a tag for
 - Keep track of your points if you can get access to the api's
+- Check your chances when your add your points
 - Tricks for excersize, packing, harvesting, and equipment you need
