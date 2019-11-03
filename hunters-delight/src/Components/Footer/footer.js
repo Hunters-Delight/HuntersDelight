@@ -4,11 +4,7 @@ import "./Footer.css"
 const Footer = () => 
 
 <footer className="text-center">
-<ul className="copyright">
-    <p>
-        &copy;Copyright
-    </p>
-</ul>
+
 </footer>;
 
 
